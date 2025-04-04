@@ -1,0 +1,80 @@
+# Thư mục Library/ chứa các file tạm, không cần thiết
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Thư mục chứa cấu hình người dùng
+UserSettings/
+*.swp
+*.tmp
+*.bak
+*.orig
+*.old
+*.pyc
+*.pyo
+*.pid
+*.class
+
+# Các file không cần thiết khác
+.DS_Store
+Thumbs.db
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Các file liên quan đến build Android và iOS
+.gradle/
+ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+
+# Các file cache của Visual Studio
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.userprefs
+*.pidb
+*.unityproj
+
+# Các file log và profile
+*.log
+*.profile
+*.prof
+*.trace
+
+# Các file metadata của Unity
+*.meta
+
+# Các file khác không cần thiết
+*.orig
+*.idb
+*.ilk
+*.ipdb
+*.pdb
+*.rsp
+*.sbr
+*.tlog
+*.user
+*.iobj
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Các file cache của Rider và JetBrains
+.idea/
+*.sln.iml
