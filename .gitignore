@@ -58,7 +58,7 @@ ExportedObj/
 *.trace
 
 # Các file metadata của Unity
-*.meta
+# *.meta
 
 # Các file khác không cần thiết
 *.orig
